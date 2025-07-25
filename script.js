@@ -1,5 +1,5 @@
 const isLocalhost = location.hostname === "localhost" || location.hostname === "127.0.0.1";
-const basePath = isLocalhost ? "" : "/FullMon";
+const basePath = isLocalhost ? "" : "/Dynatrace-recordings";
 
 document.addEventListener("DOMContentLoaded", () => {
   loadNavbar();
